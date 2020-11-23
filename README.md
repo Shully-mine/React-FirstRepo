@@ -11,7 +11,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p> Welcome to React Everyone </p>
+        <p> Welcome to React Everyone. </p>
         <p> Holla people </p>
         <a
           className="App-link"
